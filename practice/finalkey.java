@@ -6,7 +6,7 @@ public class finalkey {
         y=5;
         System.out.println(y);
         IDENTIFICATION id1=new IDENTIFICATION(7069);
-        id1.id=7070;
+        //id1.id=7070;
         System.out.println(id1.id);
     }
     

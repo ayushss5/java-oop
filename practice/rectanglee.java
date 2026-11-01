@@ -22,8 +22,6 @@ public class rectanglee {
         System.out.println(r2.length);
         System.out.println(r2.width);
         final Rectangle r5 = new Rectangle(2,3);
-        r5=new Rectangle(1,1);
-
        // r5.length=100;
        // r5.width=200;
        System.out.println(r5.length);

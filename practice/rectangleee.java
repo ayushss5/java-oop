@@ -1,16 +1,14 @@
-package practice;
-
 public class rectangleee {
     public static void main(String[]args){
-        Rectangle r1 = new Rectangle(50,50);
+        Rectanglee r1 = new Rectanglee(50,50);
         r1.area();
     }
     
 }
-class Rectangle{
+class Rectanglee{
     int length;
     int width;
-    Rectangle(int length,int width){
+    Rectanglee(int length,int width){
         this.length=length;
         this.width=width;
     }
