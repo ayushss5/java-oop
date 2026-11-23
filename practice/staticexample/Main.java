@@ -6,6 +6,7 @@ public class Main {
         human h3 = new human(30, "Bob", 70000, "Chicago");
 
         System.out.println("Population: " + human.population);
+        System.out.println("Human 1: " + h1.name + ", Age: " + h1.age + ", Salary: " + h1.salary + ", Location: " + h1.location + human.population);
     }
 
 }
